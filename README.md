@@ -1,1 +1,2 @@
-# bmstu2
+# bmstu
+Test readme file
